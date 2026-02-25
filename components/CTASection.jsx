@@ -12,7 +12,7 @@ export default function CTASection() {
           Let us design a space your family and guests will remember for years.
         </p>
         <a
-          href="mailto:hello@htservices.com"
+          href="mailto:trevkirb@gmil.com"
           className="glow-ring mt-8 inline-flex rounded-full bg-accent px-7 py-3 text-sm font-semibold text-white shadow-glowBlue transition hover:scale-[1.03] hover:bg-sky-400"
         >
           Schedule a Consultation

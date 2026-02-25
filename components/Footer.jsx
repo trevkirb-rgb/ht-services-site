@@ -10,8 +10,8 @@ export default function Footer() {
         </div>
 
         <div className="space-y-1 text-sm">
-          <p>Email: hello@htservices.com</p>
-          <p>Phone: (000) 000-0000</p>
+          <p>Email: trevkirb@gmail.com</p>
+          <p>Phone: (801)592-5420 </p>
         </div>
 
         <div className="flex items-center gap-4">
